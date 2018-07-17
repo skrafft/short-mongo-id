@@ -9,7 +9,6 @@
 	],
 	"version": "0.1.1",
 	"dependencies": {
-		"bson" : "0.1.x"
 	},
 	"main": "./index.js"
 }
